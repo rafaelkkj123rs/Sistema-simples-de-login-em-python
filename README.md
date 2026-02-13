@@ -3,7 +3,7 @@
 Um pequeno programa em Python que simula um **sistema de cadastro e login** de usuário no terminal.  
 Ideal para iniciantes aprenderem **variáveis, input, condicionais e funções**.  
 
-![Imagem do Sistema](https://i.pinimg.com/564x/b3/cf/53/b3cf53b1b2ba150b49030eacc11ec146.jpg" width="500px)
+![Imagem do Sistema](https://i.pinimg.com/564x/b3/cf/53/b3cf53b1b2ba150b49030eacc11ec146.jpg)
 
 
 ![Exemplo do Sistema](https://imgur.com/WqEE9A1.gif)
